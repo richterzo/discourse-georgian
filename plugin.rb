@@ -1,5 +1,5 @@
-# name: discourse-ka--locale
-# about: Adds a new locale for Uzbek
+# name: discourse-ka-locale
+# about: Adds a new locale for Georgian
 # version: 0.1
 # authors: Terzaghi Riccardo
 # url: https://github.com/richterzo/discourse-georgian
